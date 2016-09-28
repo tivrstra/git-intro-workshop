@@ -1,6 +1,6 @@
 ---
 title: "TestGit"
-author: "Dries Reynders"
+author: "Tim Verstraeten"
 date: "23 juni 2016"
 output: word_document
 ---
